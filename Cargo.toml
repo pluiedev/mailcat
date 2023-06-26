@@ -14,3 +14,4 @@ dotenvy = "0.15"
 eyre = "0.6.8"
 futures-util = "0.3.28"
 tokio = { version = "1.28.2", features = ["rt-multi-thread", "macros"] }
+clap = { version = "4.3.8", features = ["derive"] }
